@@ -24,3 +24,5 @@ files in each node in an common network are balanced.
 6. As soon as it receives an IP address, it starts a
 thread for downloading the file.
 7. Downloading of files using TCP Client.
+
+For More Information on how the App works refer to the Sync.pdf 
